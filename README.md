@@ -1,4 +1,5 @@
 USRP-based OFDM RF Fingerprinting Dataset
+
 📖 Overview
 
 This dataset contains orthogonal frequency-division multiplexing (OFDM) signals collected using a software-defined radio (SDR) platform for radio frequency fingerprint identification (RFFI) research. The dataset aims to provide high-quality, real-world RF signal captures with hardware-induced features suitable for machine learning–based device identification.
