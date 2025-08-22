@@ -22,13 +22,21 @@ This dataset contains **orthogonal frequency-division multiplexing (OFDM)** sign
 ## 📂 File Structure
 
 /USRP-based OFDM
+
 ├── 1G-10M-1
+
 │ ├── 20231012-0001_1.txt
+
 │ ├── 20231012-0001_2.txt
+
 │ └── ...
+
 ├── 1G-10M-2
+
 │ ├── 20231012-0002_1.txt
+
 │ ├── 20231012-0002_2.txt
+
 │ └── ...
 └── ...
 
